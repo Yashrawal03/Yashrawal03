@@ -125,11 +125,11 @@ Philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
+<img width="100%" src="https://github.com/user-attachments/assets/6d23adab-befc-42a3-97ec-656edb8e75b5"/>
 
 <br><br>
 
-<img width="100%" src="https://github.com/user-attachments/assets/6d23adab-befc-42a3-97ec-656edb8e75b5"/>
+<img width="100%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
 
 <br><br>
 
