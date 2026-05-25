@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASHRAWAL03&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASH RAWAL&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=31&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;JARVIS+Inspired+AI+Interfaces;Turning+Ideas+Into+AI+Systems"/>
 
@@ -203,13 +203,6 @@ Philosophy:
 > Evaluation systems
 ```
 
----
-
-<div align="center">
-
-<img width="500" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif"/>
-
-</div>
 
 ---
 
@@ -261,17 +254,6 @@ Philosophy:
 STATUS : READY FOR NEXT MISSION 🚀
 ```
 
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrawal03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-
-</div>
 
 ---
 
