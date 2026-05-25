@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASH RAWAL&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASH_RAWAL&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=31&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;JARVIS+Inspired+AI+Interfaces;Turning+Ideas+Into+AI+Systems"/>
 
