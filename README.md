@@ -32,7 +32,7 @@
 
 ---
 
-# 🤖 JARVIS AI LAB
+# 🤖 AI LAB
 
 ```yaml
 Name: Yash Rawal
@@ -160,6 +160,15 @@ Philosophy:
 
 # 🎬 Movie Recommendation System
 
+<div align="center">
+
+<img width="1699" height="563" alt="Screenshot 2026-05-25 195316" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a" />
+
+<br><br>
+</div>
+
+
+### ⚡ Features
 ```diff
 + Personalized Movie Recommendations
 + ML-based Recommendation Engine
