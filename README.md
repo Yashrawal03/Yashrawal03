@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=YASHRAWAL03&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=YASHRAWAL03&fontSize=68&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Real+World+AI+Systems;Python+Developer;Future+AI+Engineer"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
@@ -14,15 +14,21 @@
 
 <div align="center">
 
-# ⚡ AI ENGINEER PROFILE
-
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 </div>
 
 ---
 
-# 🤖 SYSTEM INFORMATION
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+
+</div>
+
+---
+
+# 🤖 AI ENGINEER PROFILE
 
 ```yaml
 Name: Yash Rawal
@@ -51,17 +57,32 @@ Status:
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
+
+</div>
+
+---
+
 # ⚡ TECH ARSENAL
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,tensorflow,pytorch,git,github,vscode&theme=dark"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+
+</div>
+
 ---
 
 # 🧠 AI CORE MATRIX
@@ -80,6 +101,14 @@ Status:
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
+
+</div>
+
+---
+
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
@@ -89,6 +118,14 @@ Status:
 | 🤖 Attend AI | Smart AI-based attendance system with face recognition support |
 | 🖼️ Image Classification ML | Automated image categorization using machine learning |
 | 🧠 ML Workflow Systems | Data preprocessing, training & evaluation pipelines |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -118,6 +155,14 @@ Status:
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+
+</div>
+
+---
+
 # 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
@@ -126,6 +171,14 @@ Status:
 🥇 Generative AI — LinkedIn Learning  
 🥇 Google Digital Marketing & E-Commerce  
 🏆 Hack The League Web3 Hackathon Participant  
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
 
 </div>
 
@@ -149,6 +202,14 @@ SYSTEM STATUS : ONLINE 🚀
 
 ---
 
+<div align="center">
+
+<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w0eG1vZ2N4eTBwaG9iM2Q1YjJ6cW44aW5mODN0MWdyd2s2YmJ0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+
+</div>
+
+---
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -156,6 +217,14 @@ SYSTEM STATUS : ONLINE 🚀
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrawal03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
 
 </div>
 
