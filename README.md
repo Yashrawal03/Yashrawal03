@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:001100,100:00FF41&text=YASHRAWAL&fontSize=70&fontAlignY=42&animation=fadeIn&fontColor=00FF41"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASHRAWAL&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;Matrix+Inspired+AI+Interfaces;Training+Models+For+The+Future"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=31&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;JARVIS+Inspired+AI+Interfaces;Turning+Ideas+Into+AI+Systems"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Yashrawal03?style=for-the-badge&color=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/Yashrawal03?style=for-the-badge&color=00F7FF&labelColor=000000"/>
+
+<img src="https://img.shields.io/github/stars/Yashrawal03?style=for-the-badge&color=7B2FF7&labelColor=000000"/>
 
 </div>
 
@@ -16,16 +18,25 @@
 
 <div align="center">
 
-<img width="520" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+<img width="520" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 </div>
 
 ---
 
-# ⚡ MATRIX AI LAB
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+
+</div>
+
+---
+
+# 🤖 AI LAB
 
 ```yaml
 Name: Yash Rawal
+Username: Yashrawal03
 
 Role:
   - Machine Learning Engineer
@@ -35,7 +46,7 @@ Education:
   Degree: B.Tech CSE (AI & ML)
   University: JECRC University
 
-Focus:
+Focus Areas:
   - Artificial Intelligence
   - Machine Learning
   - AI Engineering
@@ -47,15 +58,18 @@ Currently Exploring:
   - Model Optimization
   - AI Workflow Systems
 
-Mission:
-  - Build intelligent AI systems
+Philosophy:
+  - Learn
+  - Build
+  - Improve
+  - Repeat
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
 
 </div>
 
@@ -67,7 +81,7 @@ Mission:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,tensorflow,pytorch,git,github,vscode&theme=dark"/>
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab/00FF41" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
 
 </div>
 
@@ -75,7 +89,7 @@ Mission:
 
 <div align="center">
 
-<img width="420" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -85,7 +99,7 @@ Mission:
 
 <div align="center">
 
-| Neural System | Status |
+| System | Status |
 |---|---|
 | Machine Learning | ██████████ |
 | AI Engineering | █████████░ |
@@ -99,15 +113,15 @@ Mission:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
 
 </div>
 
 ---
 
-# 🚀 SYSTEMS
+# 🚀 FEATURED AI PROJECTS
 
-# 🤖 ATTEND AI
+# 🤖 ATTEND AI — Smart Attendance Management System
 
 <div align="center">
 
@@ -127,83 +141,64 @@ Mission:
 
 </div>
 
----
-
-### ⚡ SYSTEM ARCHITECTURE
-
-```bash
-Camera Feed
-    ↓
-Face Detection
-    ↓
-Liveness Verification
-    ↓
-Attendance Engine
-    ↓
-Analytics Dashboard
-```
-
----
-
-### ⚡ FEATURES
+### ⚡ Features
 
 ```diff
-+ Face Recognition System
-+ Smart Attendance Tracking
-+ Live Camera Detection
-+ Analytics Dashboard
-+ Attendance Reports
-+ Student Monitoring
++ Face Recognition Based Attendance
++ Live Camera Tracking
++ AI-based Verification System
++ Reports & Analytics Dashboard
++ Attendance Monitoring
++ Smart Student Management
 ```
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=ATTEND-AI&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/Yashrawal03/ATTEND-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=ATTEND-AI&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/ATTEND-AI)
 
 ---
 
-# 🎬 MOVIE RECOMMENDATION SYSTEM
+# 🎬 Movie Recommendation System
 
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a"/>
+<img width="1699" height="563" alt="Screenshot 2026-05-25 195316" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a" />
 
+<br><br>
 </div>
 
----
 
-### ⚡ FEATURES
-
+### ⚡ Features
 ```diff
-+ Personalized Recommendations
-+ ML Recommendation Engine
-+ Intelligent Filtering
++ Personalized Movie Recommendations
++ ML-based Recommendation Engine
 + Data Processing Pipeline
++ Intelligent Filtering Logic
 ```
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/Yashrawal03/Movie-Recommendation-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/Movie-Recommendation-System)
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
 
 </div>
 
 ---
 
-# 💼 EXPERIENCE
+# 💼 EXPERIENCE LOGS
 
 ## 🧠 AI/ML Intern — Elevance Skills
 
 ```bash
-> data preprocessing
-> ml workflow systems
-> model optimization
-> collaborative ai development
+> Data preprocessing & cleaning
+> ML workflow development
+> Model optimization
+> Collaborative AI systems
 ```
 
 ---
@@ -211,23 +206,16 @@ Analytics Dashboard
 ## ⚙️ Machine Learning Intern — Saiket Systems
 
 ```bash
-> real-world datasets
-> model development
-> evaluation workflows
-> data optimization
+> Real-world dataset handling
+> Model development workflows
+> Data optimization
+> Evaluation systems
 ```
 
----
-
-<div align="center">
-
-<img width="500" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
-
-</div>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
 <div align="center">
 
@@ -244,7 +232,7 @@ Analytics Dashboard
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -252,37 +240,35 @@ Analytics Dashboard
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
 
 </div>
 
 ---
 
-# ⚙️ MATRIX TERMINAL
+# ⚙️ AI TERMINAL
 
 ```bash
-> initializing neural protocol...
+> booting JARVIS AI LAB...
 
-[ ACCESS GRANTED ]
+[████████████████████] 100%
 
-> connecting machine learning core...
-> activating AI pipelines...
-> synchronizing neural systems...
-> loading recommendation engine...
-> deploying attendance AI...
+✔ Python Environment Synced
+✔ Neural Network Initialized
+✔ AI Systems Connected
+✔ ML Pipelines Activated
+✔ Smart Attendance Engine Running
+✔ Recommendation Engine Online
 
-STATUS : SYSTEM ONLINE
+STATUS : READY FOR NEXT MISSION 🚀
 ```
+
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrawal03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
 
 </div>
 
@@ -310,8 +296,8 @@ STATUS : SYSTEM ONLINE
 
 <div align="center">
 
-### ⚡ “Training Models. Building Intelligence.”
+# ⚡ “Training Models. Building Intelligence.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,40:001100,100:00FF41"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF"/>
 
 </div>
