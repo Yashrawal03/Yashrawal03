@@ -124,27 +124,48 @@ Experience:
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrawal03&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF"/>
 
 </div>
 
 ---
 
-# 🌌 CONTRIBUTION GRAPH
+# ⚙️ AI TERMINAL
+
+```bash
+> booting intelligence system...
+
+[████████████████████] 100%
+
+> Python Environment Synced
+> ML Models Initialized
+> Neural Network Connected
+> Awaiting Next Challenge...
+```
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashrawal03&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=7B2FF7&point=FF00FF"/>
+<img src="https://raw.githubusercontent.com/Yashrawal03/Yashrawal03/output/snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
+
+# 🤖 LIVE AI SYSTEM
+
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
 
 # 🌐 CONNECT WITH ME
 
