@@ -1,24 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=YASHRAWAL&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:001100,100:00FF41&text=YASHRAWAL&fontSize=70&fontAlignY=42&animation=fadeIn&fontColor=00FF41"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=31&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;JARVIS+Inspired+AI+Interfaces;Turning+Ideas+Into+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Building+Intelligent+Applications;Matrix+Inspired+AI+Interfaces;Training+Models+For+The+Future"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Yashrawal03?style=for-the-badge&color=00F7FF&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/Yashrawal03?style=for-the-badge&color=00FF41&labelColor=000000"/>
 
-<img src="https://img.shields.io/github/stars/Yashrawal03?style=for-the-badge&color=7B2FF7&labelColor=000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="520" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img src="https://img.shields.io/github/stars/Yashrawal03?style=for-the-badge&color=00FF41&labelColor=000000"/>
 
 </div>
 
@@ -26,17 +18,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+<img width="520" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
 
 </div>
 
 ---
 
-# 🤖 AI LAB
+# ⚡ MATRIX AI LAB
 
 ```yaml
 Name: Yash Rawal
-Username: Yashrawal03
 
 Role:
   - Machine Learning Engineer
@@ -46,7 +37,7 @@ Education:
   Degree: B.Tech CSE (AI & ML)
   University: JECRC University
 
-Focus Areas:
+Focus:
   - Artificial Intelligence
   - Machine Learning
   - AI Engineering
@@ -58,18 +49,27 @@ Currently Exploring:
   - Model Optimization
   - AI Workflow Systems
 
-Philosophy:
-  - Learn
-  - Build
-  - Improve
-  - Repeat
+Mission:
+  - Build intelligent AI systems
+```
+
+---
+
+# ⚡ SYSTEM METRICS
+
+```yaml
+Projects Built: 2+
+AI Systems: Active
+ML Pipelines: Running
+Internships Completed: 2
+Focus: Intelligent Automation
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
 
 </div>
 
@@ -81,7 +81,7 @@ Philosophy:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,tensorflow,pytorch,git,github,vscode&theme=dark"/>
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlecolab/00FF41" />
 
 </div>
 
@@ -89,7 +89,7 @@ Philosophy:
 
 <div align="center">
 
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="420" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
 </div>
 
@@ -99,7 +99,7 @@ Philosophy:
 
 <div align="center">
 
-| System | Status |
+| Neural System | Status |
 |---|---|
 | Machine Learning | ██████████ |
 | AI Engineering | █████████░ |
@@ -113,92 +113,97 @@ Philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED AI PROJECTS
+# 🚀 SYSTEMS
 
-# 🤖 ATTEND AI — Smart Attendance Management System
+# 🤖 ATTEND AI
 
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/6d23adab-befc-42a3-97ec-656edb8e75b5"/>
+<img width="49%" src="https://github.com/user-attachments/assets/6d23adab-befc-42a3-97ec-656edb8e75b5"/>
 
-<br><br>
+<img width="49%" src="https://github.com/user-attachments/assets/623a89bb-f29e-46cf-afb4-dce37c6880f6"/>
 
-<img width="100%" src="https://github.com/user-attachments/assets/623a89bb-f29e-46cf-afb4-dce37c6880f6"/>
+<img width="49%" src="https://github.com/user-attachments/assets/b0072a36-4717-4b7b-b310-7905a4b220ed"/>
 
-<br><br>
-
-<img width="100%" src="https://github.com/user-attachments/assets/b0072a36-4717-4b7b-b310-7905a4b220ed"/>
-
-<br><br>
-
-<img width="100%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
+<img width="49%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
 
 </div>
 
-### ⚡ Features
+---
 
-```diff
-+ Face Recognition Based Attendance
-+ Live Camera Tracking
-+ AI-based Verification System
-+ Reports & Analytics Dashboard
-+ Attendance Monitoring
-+ Smart Student Management
+### ⚡ SYSTEM ARCHITECTURE
+
+```bash
+Camera Feed
+    ↓
+Face Detection
+    ↓
+Liveness Verification
+    ↓
+Attendance Engine
+    ↓
+Analytics Dashboard
 ```
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=ATTEND-AI&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/ATTEND-AI)
+### ⚡ FEATURES
+
+```diff
++ Face Recognition System
++ Smart Attendance Tracking
++ Live Camera Detection
++ Analytics Dashboard
++ Attendance Reports
++ Student Monitoring
+```
 
 ---
 
-# 🎬 Movie Recommendation System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=ATTEND-AI&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/Yashrawal03/ATTEND-AI)
+
+---
+
+# 🎬 MOVIE RECOMMENDATION SYSTEM
 
 <div align="center">
 
-<img width="1699" height="563" alt="Screenshot 2026-05-25 195316" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a" />
+<img width="100%" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a"/>
 
-<br><br>
 </div>
 
+---
 
-### ⚡ Features
+### ⚡ FEATURES
+
 ```diff
-+ Personalized Movie Recommendations
-+ ML-based Recommendation Engine
++ Personalized Recommendations
++ ML Recommendation Engine
++ Intelligent Filtering
 + Data Processing Pipeline
-+ Intelligent Filtering Logic
 ```
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/Movie-Recommendation-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=chartreuse-dark&hide_border=true&bg_color=000000)](https://github.com/Yashrawal03/Movie-Recommendation-System)
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
-
-</div>
-
----
-
-# 💼 EXPERIENCE LOGS
+# 💼 EXPERIENCE
 
 ## 🧠 AI/ML Intern — Elevance Skills
 
 ```bash
-> Data preprocessing & cleaning
-> ML workflow development
-> Model optimization
-> Collaborative AI systems
+> data preprocessing
+> ml workflow systems
+> model optimization
+> collaborative ai development
 ```
 
 ---
@@ -206,16 +211,15 @@ Philosophy:
 ## ⚙️ Machine Learning Intern — Saiket Systems
 
 ```bash
-> Real-world dataset handling
-> Model development workflows
-> Data optimization
-> Evaluation systems
+> real-world datasets
+> model development
+> evaluation workflows
+> data optimization
 ```
-
 
 ---
 
-# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -228,11 +232,22 @@ Philosophy:
 
 ---
 
+# 🧠 WHY I BUILD
+
+```bash
+> I enjoy building intelligent systems
+> that solve real-world problems,
+> automate workflows,
+> and turn ideas into usable AI products.
+```
+
+---
+
 # ⚡ AI QUOTE ENGINE
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
 
@@ -240,35 +255,37 @@ Philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:002b0f&height=2"/>
 
 </div>
 
 ---
 
-# ⚙️ AI TERMINAL
+# ⚙️ MATRIX TERMINAL
 
 ```bash
-> booting JARVIS AI LAB...
+> initializing neural protocol...
 
-[████████████████████] 100%
+[ ACCESS GRANTED ]
 
-✔ Python Environment Synced
-✔ Neural Network Initialized
-✔ AI Systems Connected
-✔ ML Pipelines Activated
-✔ Smart Attendance Engine Running
-✔ Recommendation Engine Online
+> connecting machine learning core...
+> activating AI pipelines...
+> synchronizing neural systems...
+> loading recommendation engine...
+> deploying attendance AI...
 
-STATUS : READY FOR NEXT MISSION 🚀
+STATUS : SYSTEM ONLINE
 ```
-
 
 ---
 
+# 📊 GITHUB ANALYTICS
+
 <div align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrawal03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41"/>
 
 </div>
 
@@ -296,8 +313,8 @@ STATUS : READY FOR NEXT MISSION 🚀
 
 <div align="center">
 
-# ⚡ “Training Models. Building Intelligence.”
+### ⚡ “Training Models. Building Intelligence.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,40:001100,100:00FF41"/>
 
 </div>
