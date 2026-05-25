@@ -1,24 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F0FF,50:7B2FF7,100:FF00FF&text=YASHRAWAL03&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=YASHRAWAL03&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=00F7FF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Engineering+Student;Machine+Learning+Explorer;Building+Real+World+Projects;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Real+World+AI+Systems;Python+Developer;Future+AI+Engineer"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Yashrawal03&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤖 ABOUT ME
+<div align="center">
+
+# ⚡ AI ENGINEER PROFILE
+
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
+
+---
+
+# 🤖 SYSTEM INFORMATION
 
 ```yaml
 Name: Yash Rawal
 Username: Yashrawal03
 
 Education:
-  - B.Tech CSE (AI & ML)
-  - JECRC University
+  Degree: B.Tech CSE (AI & ML)
+  University: JECRC University
 
-Focus:
+Specialization:
   - Artificial Intelligence
   - Machine Learning
   - Python Development
@@ -26,33 +40,35 @@ Focus:
 Currently Exploring:
   - Deep Learning
   - NLP
-  - AI Systems
-  - Machine Learning Workflows
+  - AI Workflows
+  - Model Optimization
 
-Mindset:
-  - Learn → Build → Improve
+Status:
+  - Building
+  - Learning
+  - Improving
 ```
 
 ---
 
-# ⚡ TECH STACK
+# ⚡ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,git,github,vscode,tensorflow,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,tensorflow,pytorch,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 🧠 AI MATRIX
+# 🧠 AI CORE MATRIX
 
 <div align="center">
 
-| Domain | Level |
+| System | Status |
 |---|---|
 | Machine Learning | ██████████ |
-| Python | █████████░ |
+| Python Development | █████████░ |
 | Deep Learning | ███████░░░ |
 | Data Preprocessing | ████████░░ |
 | Model Training | ████████░░ |
@@ -61,74 +77,52 @@ Mindset:
 
 ---
 
-# 🚀 PROJECTS
+# 🚀 FEATURED PROJECTS
 
-## 🤖 Attend AI — Smart AI Attendance System
+<div align="center">
 
-```diff
-+ AI-based automated attendance system
-+ Face recognition support
-+ Database management
-+ Improved attendance tracking efficiency
-```
+| Project | Description |
+|---|---|
+| 🤖 Attend AI | Smart AI-based attendance system with face recognition support |
+| 🖼️ Image Classification ML | Automated image categorization using machine learning |
+| 🧠 ML Workflow Systems | Data preprocessing, training & evaluation pipelines |
 
----
-
-## 🖼️ Image Classification ML Model
-
-```diff
-+ Dataset preprocessing
-+ Image labeling
-+ Model training & evaluation
-+ Automated image categorization
-```
+</div>
 
 ---
 
-# 💼 EXPERIENCE
+# 💼 EXPERIENCE LOGS
 
 ## 🧠 AI/ML Intern — Elevance Skills
 
-```yaml
-Worked On:
-  - Data Cleaning
-  - Data Preprocessing
-  - ML Workflow Understanding
-  - Model Accuracy Improvement
+```bash
+> Worked on ML workflows
+> Data preprocessing & cleaning
+> Model accuracy improvement
+> Collaborative AI development
 ```
 
 ---
 
 ## ⚙️ Machine Learning Intern — Saiket Systems
 
-```yaml
-Experience:
-  - Real-world ML datasets
-  - Data Handling
-  - Model Development
-  - Model Optimization
+```bash
+> Real-world dataset handling
+> ML model development
+> Data optimization
+> Evaluation workflows
 ```
 
 ---
 
-# 🏆 CERTIFICATIONS
+# 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
 🥇 Microsoft Azure Security Fundamentals  
 🥇 Generative AI — LinkedIn Learning  
 🥇 Google Digital Marketing & E-Commerce  
-🏆 Hack The League Web3 Hackathon Participant
-
-</div>
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF"/>
+🏆 Hack The League Web3 Hackathon Participant  
 
 </div>
 
@@ -137,37 +131,34 @@ Experience:
 # ⚙️ AI TERMINAL
 
 ```bash
-> booting intelligence system...
+> booting Yashrawal03 AI system...
 
 [████████████████████] 100%
 
-> Python Environment Synced
-> ML Models Initialized
-> Neural Network Connected
-> Awaiting Next Challenge...
+✔ Python Environment Synced
+✔ Neural Network Initialized
+✔ ML Modules Activated
+✔ AI Workflows Running
+✔ Ready For Next Challenge
+
+SYSTEM STATUS : ONLINE 🚀
 ```
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashrawal03/Yashrawal03/output/snake.svg" alt="Snake animation" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrawal03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrawal03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 </div>
 
 ---
 
-# 🤖 LIVE AI SYSTEM
-
-<div align="center">
-
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</div>
-
-# 🌐 CONNECT WITH ME
+# 🌌 CONNECT TO NETWORK
 
 <div align="center">
 
@@ -187,25 +178,10 @@ Experience:
 
 ---
 
-# ⚙️ TERMINAL STATUS
-
-```bash
-> Initializing AI Systems...
-
-✔ Python Modules Loaded
-✔ ML Models Ready
-✔ Internship Experience Synced
-✔ Projects Compiled
-
-STATUS: READY TO BUILD 🚀
-```
-
----
-
 <div align="center">
 
-### ⚡ “Turning Data Into Intelligence.”
+# ⚡ “Turning Data Into Intelligence.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F0FF,50:7B2FF7,100:FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
