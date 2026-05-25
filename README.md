@@ -129,7 +129,7 @@ Philosophy:
 
 <br><br>
 
-<img width="100%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
+<img width="100%" src="https://github.com/user-attachments/assets/623a89bb-f29e-46cf-afb4-dce37c6880f6"/>
 
 <br><br>
 
@@ -137,7 +137,7 @@ Philosophy:
 
 <br><br>
 
-<img width="100%" src="https://github.com/user-attachments/assets/623a89bb-f29e-46cf-afb4-dce37c6880f6"/>
+<img width="100%" src="https://github.com/user-attachments/assets/e1bdfb0a-dc8f-44c8-ae10-68e8db112e60"/>
 
 </div>
 
