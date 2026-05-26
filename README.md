@@ -175,6 +175,28 @@ Philosophy:
 + Data Processing Pipeline
 + Intelligent Filtering Logic
 ```
+---
+
+# 💻 Neural AI Terminal — Next Word Prediction System
+
+<div align="center">
+
+<img width="1020" height="868" alt="Screenshot 2026-05-26 191834" src="https://github.com/user-attachments/assets/50884305-183b-4a04-8f97-b165cd08969d" />
+
+
+<br><br>
+
+</div>
+
+### ⚡ Features
+
+```diff
++ AI-powered Next Word Prediction
++ Deep Learning LSTM Architecture
++ Interactive Neural AI Terminal UI
++ Adjustable Creativity Controls
++ Real-time Text Generation
++ Futuristic Cyberpunk Interface
 
 ---
 
