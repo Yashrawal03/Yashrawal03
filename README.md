@@ -200,18 +200,6 @@ Philosophy:
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/Movie-Recommendation-System)
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
-
-</div>
-
----
-
 # 💼 EXPERIENCE LOGS
 
 ## 🧠 AI/ML Intern — Elevance Skills
