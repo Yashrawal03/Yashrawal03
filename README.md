@@ -162,27 +162,32 @@ Philosophy:
 
 <div align="center">
 
-<img width="1699" height="563" alt="Screenshot 2026-05-25 195316" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a" />
+<img width="1699" height="563" alt="Movie Recommendation System" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a"/>
 
 <br><br>
+
 </div>
 
-
 ### ⚡ Features
+
 ```diff
 + Personalized Movie Recommendations
 + ML-based Recommendation Engine
 + Data Processing Pipeline
 + Intelligent Filtering Logic
 ```
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/Movie-Recommendation-System)
+
 ---
 
 # 💻 Neural AI Terminal — Next Word Prediction System
 
 <div align="center">
 
-<img width="1020" height="868" alt="Screenshot 2026-05-26 191834" src="https://github.com/user-attachments/assets/50884305-183b-4a04-8f97-b165cd08969d" />
-
+<img width="1020" height="868" alt="Neural AI Terminal" src="https://github.com/user-attachments/assets/50884305-183b-4a04-8f97-b165cd08969d"/>
 
 <br><br>
 
@@ -197,6 +202,19 @@ Philosophy:
 + Adjustable Creativity Controls
 + Real-time Text Generation
 + Futuristic Cyberpunk Interface
+```
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashrawal03&repo=AI-Next-Word-Predictor&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Yashrawal03/AI-Next-Word-Predictor)
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7B2FF7&height=2"/>
+
+</div>
 
 ---
 
@@ -221,7 +239,6 @@ Philosophy:
 > Data optimization
 > Evaluation systems
 ```
-
 
 ---
 
@@ -269,10 +286,10 @@ Philosophy:
 ✔ ML Pipelines Activated
 ✔ Smart Attendance Engine Running
 ✔ Recommendation Engine Online
+✔ Neural AI Terminal Online
 
 STATUS : READY FOR NEXT MISSION 🚀
 ```
-
 
 ---
 
